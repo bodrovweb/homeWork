@@ -1,7 +1,7 @@
 import UIKit
 import Foundation
 
-
+//Бодров Антон
 //Задание 1 Решить квадратное уравнение.
 
 var a: Double = 1
@@ -47,3 +47,5 @@ var days = time * 365
 
 // Формула простых процентов
 let summFinal = summ + (summ * percent * days / 365) / 100
+
+
