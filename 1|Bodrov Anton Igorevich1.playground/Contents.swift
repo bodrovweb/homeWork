@@ -49,3 +49,4 @@ var days = time * 365
 let summFinal = summ + (summ * percent * days / 365) / 100
 
 
+/
